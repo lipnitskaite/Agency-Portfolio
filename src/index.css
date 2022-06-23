@@ -1,8 +1,8 @@
-/* @import url(./vendor/normalize.css);
-@import url(./vendor/fonts/fonts.css); */
+@import url(./vendor/normalize.css);
+@import url(./vendor/fonts/fonts.css);
 
 /* Page Block */
-/* @import url(./blocks/page/page.css); */
+@import url(./blocks/page/page.css);
 
 /* Logo Block */
 @import url(./blocks/logo/logo.css);
@@ -17,6 +17,3 @@
 @import url(./blocks/header/__nav/header__nav.css);
 @import url(./blocks/header/__nav-item/header__nav-item.css);
 
-/* Mix */
-/* @import url(./blocks/page/__card/page__card.css);
-@import url(./blocks/page/__cards/page__cards.css); */
