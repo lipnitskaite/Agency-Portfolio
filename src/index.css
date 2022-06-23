@@ -1,13 +1,22 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+/* @import url(./vendor/normalize.css);
+@import url(./vendor/fonts/fonts.css); */
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+/* Page Block */
+/* @import url(./blocks/page/page.css); */
+
+/* Logo Block */
+@import url(./blocks/logo/logo.css);
+@import url(./blocks/logo/__image/logo__image.css);
+@import url(./blocks/logo/__text/logo__text.css);
+
+/* Button Block */
+@import url(./blocks/button/__type/_contact/button__type_contact.css);
+
+/* Header Block */
+@import url(./blocks/header/header.css);
+@import url(./blocks/header/__nav/header__nav.css);
+@import url(./blocks/header/__nav-item/header__nav-item.css);
+
+/* Mix */
+/* @import url(./blocks/page/__card/page__card.css);
+@import url(./blocks/page/__cards/page__cards.css); */

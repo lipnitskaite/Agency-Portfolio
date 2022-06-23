@@ -1,0 +1,11 @@
+.logo__text {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* @media screen and (min-width: 1280px) {
+  .logo {
+    width: 142px;
+    height: 33px;
+  }
+} */

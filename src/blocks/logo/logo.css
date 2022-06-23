@@ -1,0 +1,8 @@
+.logo {
+  box-sizing: border-box;
+  margin: 0 auto;
+  width: 138.8px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
