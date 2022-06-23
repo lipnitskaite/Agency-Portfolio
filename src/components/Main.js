@@ -21,6 +21,7 @@ function Main() {
         <div className="cards">
           <Card />
         </div>
+        <button className='button button__type_cards-loading'>Load More</button>
       </section>
     </main>
   );

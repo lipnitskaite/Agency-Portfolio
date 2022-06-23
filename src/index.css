@@ -3,6 +3,7 @@
 
 /* Page Block */
 @import url(./blocks/page/page.css);
+@import url(./blocks/page/__card/page__card.css);
 
 /* Logo Block */
 @import url(./blocks/logo/logo.css);
@@ -10,7 +11,9 @@
 @import url(./blocks/logo/__text/logo__text.css);
 
 /* Button Block */
+@import url(./blocks/button/button.css);
 @import url(./blocks/button/__type/_contact/button__type_contact.css);
+@import url(./blocks/button/__type/_cards-loading/button__type_cards-loading.css);
 
 /* Header Block */
 @import url(./blocks/header/header.css);
