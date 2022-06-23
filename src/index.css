@@ -31,6 +31,8 @@
 /* Cards-Filter Block */
 @import url(./blocks/cards-filter/cards-filter.css);
 @import url(./blocks/cards-filter/__item/cards-filter__item.css);
+@import url(./blocks/cards-filter/__item/_type/_main/cards-filter__item_type_main.css);
+@import url(./blocks/cards-filter/__content/cards-filter__content.css);
 
 /* Card Block */
 @import url(./blocks/card/card.css);

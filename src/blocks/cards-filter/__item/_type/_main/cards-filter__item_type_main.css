@@ -1,0 +1,6 @@
+.cards-filter__item_type_main {
+  border-radius: 6px; 
+  border: 1px solid #F3D1BF;
+  background: white url(../../../../../images/Triangle.svg) no-repeat;
+  background-position: calc(100% - 15px) center;
+}
