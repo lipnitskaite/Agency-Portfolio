@@ -9,6 +9,13 @@ function Main() {
         <p className='lead__paragraph'>Agency provides a full service range including technical skills, design, business understanding.</p>
       </section>
       <section className='main'>
+        <select className='cards-filter'>
+          <option className='cards-filter__item'>Show All</option>
+          <option className='cards-filter__item'>Design</option>
+          <option className='cards-filter__item'>Branding</option>
+          <option className='cards-filter__item'>Illustration</option>
+          <option className='cards-filter__item'>Motion</option>
+        </select>
         <div className="cards">
           <Card />
         </div>

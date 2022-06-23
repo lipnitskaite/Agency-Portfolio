@@ -1,0 +1,22 @@
+.cards-filter {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearane: none;
+  box-sizing: border-box;
+  min-width: 320px;
+  width: 329px;
+  height: 48px;
+  border-radius: 6px;
+  border: 1px solid #F3D1BF;
+  background: white url(../../images/Triangle.svg) no-repeat;
+  background-position: calc(100% - 15px) center;
+  padding: 15px;
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(57, 20, 0, .64);
+}
+
+.cards-filter::-ms-expand {
+  display: none;
+}
