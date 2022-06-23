@@ -1,0 +1,11 @@
+.card {
+  box-sizing: border-box;
+  border-radius: 6px;
+  width: 329px;
+  height: 416px;
+  background-color: blueviolet;
+  padding: 53px 28px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
